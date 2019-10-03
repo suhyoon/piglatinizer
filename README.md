@@ -5,10 +5,10 @@ In this unit, coders will create a Pig Latinizer. The Pig Latinizer will take a 
 Pig Latin takes the first consonant (or consonant cluster) of an English word, moves it to the end of the word and suffixes an ay, or if a word begins with a vowel you just add ay to the end. For example, pig becomes igpay, banana becomes ananabay, and aadvark becomes aadvarkay.
 ## Day 1
 ### Planning
-- [ ] Review your Starter Code and make sure you understand what code has already been written for you.
+- [x] Review your Starter Code and make sure you understand what code has already been written for you.
 ### Set-Up
 - [x] Go to the repository at https://github.com/itscodenation/piglatinizer
-- [ ] Fork this repository to your github account and pull it into Gitpod
+- [x] Fork this repository to your github account and pull it into Gitpod
 - [ ] Add, commit, and push your changes
 - [ ] Make your site live on gh-pages
 ### index.html
